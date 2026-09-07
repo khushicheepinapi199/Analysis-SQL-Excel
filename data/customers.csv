@@ -1,0 +1,61 @@
+customer_id,customer_name,country,account_type,onboarding_date,country_risk
+C001,Customer 001,Singapore,Checking,2024-01-26,Medium
+C002,Customer 002,Singapore,Savings,2024-09-07,Medium
+C003,Customer 003,Canada,Checking,2026-01-24,Low
+C004,Customer 004,United States,Business,2026-01-28,Low
+C005,Customer 005,Germany,Checking,2025-08-27,Low
+C006,Customer 006,India,Checking,2024-01-31,Medium
+C007,Customer 007,United States,Checking,2024-08-26,Low
+C008,Customer 008,Germany,Business,2024-01-28,Low
+C009,Customer 009,Germany,Checking,2026-01-03,Low
+C010,Customer 010,Singapore,Business,2025-07-12,Medium
+C011,Customer 011,India,Checking,2025-04-04,Medium
+C012,Customer 012,Germany,Savings,2024-01-07,Low
+C013,Customer 013,Canada,Business,2025-03-08,Low
+C014,Customer 014,United Kingdom,Savings,2024-06-08,Low
+C015,Customer 015,Canada,Savings,2024-04-14,Low
+C016,Customer 016,United States,Savings,2024-04-09,Low
+C017,Customer 017,United Kingdom,Savings,2025-09-10,Low
+C018,Customer 018,United Kingdom,Checking,2026-01-17,Low
+C019,Customer 019,India,Business,2024-05-07,Medium
+C020,Customer 020,India,Checking,2025-07-19,Medium
+C021,Customer 021,United Kingdom,Business,2025-09-25,Low
+C022,Customer 022,United Kingdom,Business,2024-07-15,Low
+C023,Customer 023,Singapore,Checking,2024-02-16,Medium
+C024,Customer 024,Singapore,Checking,2026-03-02,Medium
+C025,Customer 025,United Kingdom,Checking,2024-08-26,Low
+C026,Customer 026,United States,Savings,2024-10-11,Low
+C027,Customer 027,India,Business,2025-01-08,Medium
+C028,Customer 028,Canada,Savings,2024-12-29,Low
+C029,Customer 029,Canada,Business,2024-09-30,Low
+C030,Customer 030,Singapore,Business,2025-10-25,Medium
+C031,Customer 031,United States,Business,2025-10-12,Low
+C032,Customer 032,Canada,Business,2026-01-16,Low
+C033,Customer 033,Canada,Checking,2025-04-18,Low
+C034,Customer 034,India,Savings,2025-10-17,Medium
+C035,Customer 035,Singapore,Business,2024-08-12,Medium
+C036,Customer 036,Singapore,Savings,2026-02-25,Medium
+C037,Customer 037,United States,Checking,2024-02-02,Low
+C038,Customer 038,United Kingdom,Savings,2024-10-01,Low
+C039,Customer 039,United States,Checking,2025-08-03,Low
+C040,Customer 040,Singapore,Savings,2024-08-05,Medium
+C041,Customer 041,Singapore,Savings,2025-02-09,Medium
+C042,Customer 042,Singapore,Savings,2024-05-26,Medium
+C043,Customer 043,United Kingdom,Checking,2024-09-09,Low
+C044,Customer 044,Singapore,Business,2025-07-05,Medium
+C045,Customer 045,United Kingdom,Business,2025-08-21,Low
+C046,Customer 046,India,Business,2025-02-12,Medium
+C047,Customer 047,United Kingdom,Checking,2024-05-21,Low
+C048,Customer 048,Germany,Savings,2024-04-03,Low
+C049,Customer 049,United States,Checking,2024-06-05,Low
+C050,Customer 050,Singapore,Checking,2025-11-27,Medium
+C051,Customer 051,India,Business,2024-03-06,Medium
+C052,Customer 052,India,Savings,2025-09-02,Medium
+C053,Customer 053,India,Business,2024-09-14,Medium
+C054,Customer 054,Germany,Checking,2025-11-27,Low
+C055,Customer 055,Singapore,Checking,2025-11-29,Medium
+C056,Customer 056,Germany,Savings,2026-02-26,Low
+C057,Customer 057,Singapore,Savings,2024-04-24,Medium
+C058,Customer 058,United Kingdom,Savings,2024-06-10,Low
+C059,Customer 059,India,Checking,2026-01-09,Medium
+C060,Customer 060,Singapore,Savings,2025-05-27,Medium
