@@ -1,0 +1,101 @@
+transaction_id,customer_id,transaction_datetime,transaction_type,direction,amount_usd,transaction_country,status
+T0001,C049,2026-06-05 06:09:00,Card,Credit,1219.31,Germany,Declined
+T0002,C059,2026-01-21 02:46:00,Cash Deposit,Credit,347.05,Germany,Completed
+T0003,C009,2026-02-24 17:48:00,Wire,Debit,146.02,India,Completed
+T0004,C029,2026-01-17 10:01:00,Cash Withdrawal,Credit,1719.57,Germany,Completed
+T0005,C001,2026-08-20 01:55:00,Card,Credit,67.02,Germany,Completed
+T0006,C018,2026-08-28 18:36:00,Cash Deposit,Credit,712.6,India,Pending
+T0007,C013,2026-04-16 14:55:00,ACH,Credit,64.02,United States,Pending
+T0008,C047,2026-02-18 17:28:00,Wire,Debit,67.16,Canada,Completed
+T0009,C030,2026-01-13 20:34:00,ACH,Credit,243.8,Canada,Completed
+T0010,C027,2026-01-16 05:24:00,ACH,Debit,477.55,United Kingdom,Pending
+T0011,C019,2026-05-23 21:45:00,Cash Deposit,Credit,22.32,Canada,Completed
+T0012,C014,2026-05-30 15:32:00,Cash Withdrawal,Credit,656.7,United States,Declined
+T0013,C006,2026-05-29 19:02:00,Cash Withdrawal,Credit,29.18,India,Declined
+T0014,C037,2026-07-03 10:15:00,Card,Debit,896.58,Canada,Completed
+T0015,C030,2026-04-28 19:36:00,ACH,Credit,138.26,Germany,Completed
+T0016,C033,2026-06-30 09:39:00,Cash Withdrawal,Credit,377.76,Singapore,Declined
+T0017,C020,2026-07-10 17:09:00,Card,Debit,1190.26,Germany,Completed
+T0018,C046,2026-05-10 15:16:00,ACH,Credit,207.99,Singapore,Pending
+T0019,C054,2026-07-09 14:35:00,Cash Deposit,Credit,1775.26,United States,Completed
+T0020,C057,2026-04-05 18:35:00,Wire,Debit,724.22,Canada,Completed
+T0021,C020,2026-04-01 17:56:00,Cash Deposit,Credit,228.78,Canada,Completed
+T0022,C052,2026-01-28 12:55:00,ACH,Debit,1019.52,Canada,Completed
+T0023,C053,2026-08-12 07:14:00,ACH,Credit,1485.98,India,Completed
+T0024,C018,2026-08-04 17:21:00,ACH,Credit,171.25,United Kingdom,Completed
+T0025,C038,2026-04-22 11:46:00,Card,Debit,1451.37,Germany,Declined
+T0026,C008,2026-07-01 13:00:00,Cash Withdrawal,Credit,309.47,United Kingdom,Pending
+T0027,C005,2026-08-19 09:32:00,Card,Debit,923.02,United Kingdom,Pending
+T0028,C045,2026-04-08 21:47:00,Wire,Debit,329.74,India,Declined
+T0029,C054,2026-04-30 14:28:00,Wire,Debit,370.05,Singapore,Completed
+T0030,C043,2026-03-27 02:52:00,Wire,Debit,113.29,Canada,Completed
+T0031,C010,2026-04-17 20:36:00,Wire,Debit,370.97,India,Pending
+T0032,C016,2026-08-09 03:49:00,Cash Deposit,Credit,71.13,Canada,Declined
+T0033,C030,2026-04-27 04:51:00,Cash Deposit,Debit,176.32,India,Declined
+T0034,C053,2026-05-21 14:57:00,Wire,Debit,1053.21,India,Completed
+T0035,C049,2026-05-14 15:40:00,Wire,Debit,148.9,India,Completed
+T0036,C046,2026-05-19 02:08:00,Wire,Credit,297.46,India,Completed
+T0037,C046,2026-04-30 13:03:00,Wire,Debit,213.01,India,Declined
+T0038,C045,2026-03-18 12:54:00,Cash Deposit,Credit,631.61,India,Completed
+T0039,C018,2026-06-23 12:46:00,Wire,Debit,439.94,Canada,Declined
+T0040,C035,2026-01-07 02:41:00,Cash Deposit,Credit,129.13,India,Completed
+T0041,C004,2026-03-28 12:17:00,Cash Deposit,Debit,267.28,United States,Pending
+T0042,C002,2026-02-27 20:04:00,ACH,Credit,773.31,Canada,Completed
+T0043,C054,2026-02-25 14:44:00,Card,Debit,70.81,Canada,Declined
+T0044,C039,2026-05-29 00:59:00,Card,Debit,871.21,India,Completed
+T0045,C005,2026-06-28 09:54:00,Cash Withdrawal,Credit,1252.04,Germany,Completed
+T0046,C023,2026-06-15 10:00:00,Cash Deposit,Debit,581.71,United States,Pending
+T0047,C024,2026-04-22 05:46:00,Cash Withdrawal,Debit,1915.84,Germany,Declined
+T0048,C050,2026-03-10 10:54:00,Wire,Credit,468.64,United Kingdom,Pending
+T0049,C016,2026-03-28 00:31:00,Card,Credit,1338.03,India,Completed
+T0050,C023,2026-06-29 08:35:00,ACH,Credit,1069.07,United States,Completed
+T0051,C047,2026-05-02 20:45:00,Cash Deposit,Debit,343.48,United States,Completed
+T0052,C019,2026-05-29 11:30:00,Cash Withdrawal,Debit,104.63,India,Declined
+T0053,C022,2026-03-01 03:46:00,Wire,Debit,309.39,United States,Declined
+T0054,C049,2026-03-12 23:37:00,Cash Withdrawal,Debit,737.69,United States,Completed
+T0055,C019,2026-03-12 01:03:00,Cash Withdrawal,Debit,28694.73,Singapore,Completed
+T0056,C041,2026-05-27 09:30:00,Cash Deposit,Debit,1705.41,United Kingdom,Completed
+T0057,C004,2026-02-08 04:51:00,Cash Withdrawal,Debit,476.53,United States,Completed
+T0058,C008,2026-06-08 07:49:00,Cash Withdrawal,Debit,584.43,India,Pending
+T0059,C020,2026-07-09 03:48:00,Wire,Credit,204.18,United Kingdom,Completed
+T0060,C011,2026-04-15 14:44:00,Cash Withdrawal,Debit,181.98,United Kingdom,Completed
+T0061,C015,2026-01-19 21:14:00,Card,Credit,296.84,India,Completed
+T0062,C035,2026-02-06 02:03:00,Wire,Debit,282.94,Germany,Declined
+T0063,C059,2026-06-29 12:17:00,Cash Withdrawal,Debit,325.66,India,Completed
+T0064,C039,2026-03-06 00:05:00,Wire,Credit,122.75,Singapore,Completed
+T0065,C037,2026-02-16 18:27:00,Cash Deposit,Credit,426.15,India,Completed
+T0066,C027,2026-03-26 13:44:00,Cash Deposit,Debit,207.08,Singapore,Pending
+T0067,C053,2026-07-17 12:55:00,Cash Withdrawal,Credit,191.47,Singapore,Declined
+T0068,C030,2026-07-13 15:40:00,Cash Deposit,Credit,410.27,Canada,Completed
+T0069,C036,2026-05-05 03:01:00,Cash Withdrawal,Credit,202.53,Singapore,Completed
+T0070,C020,2026-08-04 03:29:00,ACH,Credit,598.72,India,Completed
+T0071,C033,2026-05-01 07:29:00,Cash Withdrawal,Credit,900.44,India,Completed
+T0072,C059,2026-01-18 08:49:00,Cash Deposit,Debit,964.85,Germany,Completed
+T0073,C053,2026-08-10 04:28:00,Cash Withdrawal,Debit,1955.11,United Kingdom,Completed
+T0074,C036,2026-08-11 06:44:00,Wire,Debit,1016.48,Canada,Pending
+T0075,C003,2026-04-08 12:42:00,Wire,Debit,272.64,United States,Completed
+T0076,C033,2026-08-05 14:06:00,Cash Withdrawal,Debit,1627.97,United States,Completed
+T0077,C027,2026-01-21 10:54:00,Cash Withdrawal,Debit,169.02,United Kingdom,Pending
+T0078,C056,2026-06-25 09:14:00,ACH,Debit,592.26,United States,Completed
+T0079,C029,2026-01-15 09:22:00,Card,Debit,21353.11,Canada,Completed
+T0080,C034,2026-02-14 02:39:00,Cash Deposit,Credit,306.69,India,Declined
+T0081,C010,2026-06-20 00:57:00,Cash Deposit,Debit,138.54,Singapore,Declined
+T0082,C011,2026-08-07 15:06:00,Wire,Debit,443.14,Germany,Completed
+T0083,C037,2026-04-12 08:00:00,Cash Withdrawal,Credit,39051.31,Germany,Pending
+T0084,C054,2026-06-05 11:14:00,Wire,Debit,1301.57,Singapore,Completed
+T0085,C041,2026-07-21 14:02:00,Cash Withdrawal,Debit,77.09,Singapore,Completed
+T0086,C006,2026-02-21 04:50:00,Cash Withdrawal,Debit,1399.31,Germany,Declined
+T0087,C059,2026-05-04 09:47:00,Card,Credit,308.87,India,Completed
+T0088,C010,2026-06-22 12:54:00,Cash Withdrawal,Debit,865.26,United States,Pending
+T0089,C001,2026-07-11 21:16:00,Cash Withdrawal,Debit,310.73,Singapore,Completed
+T0090,C007,2026-05-24 10:58:00,Cash Withdrawal,Credit,869.14,Singapore,Completed
+T0091,C041,2026-01-10 09:31:00,ACH,Credit,277.69,Canada,Declined
+T0092,C009,2026-06-28 17:26:00,Cash Withdrawal,Credit,363.69,India,Completed
+T0093,C054,2026-01-09 22:23:00,Wire,Debit,477.77,India,Completed
+T0094,C055,2026-01-16 12:17:00,Wire,Credit,48.66,India,Completed
+T0095,C043,2026-01-13 10:15:00,Wire,Credit,125.21,United States,Declined
+T0096,C014,2026-07-18 04:50:00,Cash Withdrawal,Credit,1088.66,United Kingdom,Completed
+T0097,C009,2026-08-10 00:08:00,ACH,Debit,693.96,Canada,Declined
+T0098,C021,2026-01-17 15:28:00,Card,Credit,163.07,India,Declined
+T0099,C015,2026-01-16 15:54:00,Cash Deposit,Debit,527.37,Singapore,Completed
+T0100,C032,2026-03-24 19:09:00,ACH,Credit,948.46,United Kingdom,Declined
